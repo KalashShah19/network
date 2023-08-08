@@ -25,6 +25,7 @@ proc finish {} {
 	exec nam out.nam &
 
 	exit 0
+	
 }
 
 #create two nodes
